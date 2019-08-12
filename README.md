@@ -1,1 +1,3 @@
 # ad_hoc_routing_protocols_ieee_802_15_4
+
+In present industrial automation scenario, the technologies for wireless communication, sensing, and computation is progressing at faster rates, bringing considerable improvements in a wide spectrum of modern technologies. A new standard IEEE 802.15.4 has been uniquely designed to suit personal area wireless networks requirement consuming low power, provides low data rate and low cost. In this paper, the performance of the Ad Hoc routing protocols AODV, LAR and ZRP are compared and studied using Qualnet 5.0.2.Network Simulator under various CBR connections with various metrics like throughput, total number of bytes received, average jitter, end-to-end delay, and packet delivery ratio successfully routed to their destination.
